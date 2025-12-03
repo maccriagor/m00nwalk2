@@ -34,11 +34,17 @@ Visit ALan Eliasen the future boy steganography tool : https://futureboy.us/steg
 
 1. Select your device sound output ( right side of the volume bar ) to Line 1 which is the Virtual Audio Cable.
 2. In RX-SSTV , pick setup -> Sound Control and Devices -> Pick line 1.
+
 * This setting help the RX-SSTV to listen to your .wav file so it can decode the image, remember to switch the device sound output back after finishing with decoding.
+  
 3. Play each of the .wav files ( you only really need to play the clue files, the transmission file doesnt how any meaningful clue for RX-SSTV decoding progress unless you are on m00nwalk 1 ).
-So i was solving this in my college library and i realized that in a loud area, the RX-SSTV ( despite being on audio cable ) would make the would-be-correct decoded image quite blurry. ( This should be what the Clue 2 image mean )
-4. Clue 1 should give you a password ( hidden_stegosaurus ) and Clue 3 would give you the following text "ALan Eliasen the future boy" which if you google it, click the first link and you will see a list of tools, pick steganography.
-Before we move to the fifth step, reminder to pick decode mode when you are on future boy site. ( Dont be like me and get stuck for 30 minutes because i didnt realize i was on encode mode )
-5. Choose the Transmission .wav file and enter the password given in Clue 1 ( hidden_stegosaurus ) , pick View raw output as MIME-type (text/plain).
+   
+* So i was solving this in my college library and i realized that in a loud area, the RX-SSTV ( despite being on audio cable ) would make the would-be-correct decoded image quite blurry. ( This should be what the Clue 2 image mean )
+
+5. Clue 1 should give you a password ( hidden_stegosaurus ) and Clue 3 would give you the following text "ALan Eliasen the future boy" which if you google it, click the first link and you will see a list of tools, pick steganography.
+
+* Before we move to the fifth step, reminder to pick decode mode when you are on future boy site. ( Dont be like me and get stuck for 30 minutes because i didnt realize i was on encode mode )
+
+7. Choose the Transmission .wav file and enter the password given in Clue 1 ( hidden_stegosaurus ) , pick View raw output as MIME-type (text/plain).
 ## Result
 The flag for this challenge is picoCTF{the_answer_lies_hidden_in_plain_sight}. 
