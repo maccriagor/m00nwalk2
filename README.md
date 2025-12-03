@@ -16,6 +16,7 @@ Link to Clue 3 : https://challenge-files.picoctf.net/c_fickle_tempest/43e77de115
 Use the clues to extract the another flag from the .wav file.
 ## Personal Hints
 You only need to care about decoding Clue 1 and Clue 3 on RX-SSTV , the rest can be ignored or only matter when we are on different tool.
+RX-SSTV should automatically pick the right RX option for you right after you play an audio file.
 ## Analysis
 - The challenge gives 4 files total which include the following content :
   1. Transmission :
