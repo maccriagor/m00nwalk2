@@ -25,9 +25,13 @@ You only need to care about decoding Clue 1 and Clue 3 on RX-SSTV , the rest can
      
 ## Solution
 Step-by-step explanation:
+
 Download the following tool for solving ( RX-SSTV ) : https://www.qsl.net/on6mu/rxsstv.htm.
+
 Download the following tool to support the solving tool ( Virtual Audio Cable ) : https://vac.muzychenko.net/en/
+
 Visit ALan Eliasen the future boy steganography tool : https://futureboy.us/stegano/
+
 1. Select your device sound output ( right side of the volume bar ) to Line 1 which is the Virtual Audio Cable.
 2. In RX-SSTV , pick setup -> Sound Control and Devices -> Pick line 1.
 * This setting help the RX-SSTV to listen to your .wav file so it can decode the image, remember to switch the device sound output back after finishing with decoding.
