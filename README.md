@@ -20,13 +20,20 @@ Use the clues to extract the another flag from the .wav file.
 ## Analysis
 - The challenge gives 4 files total which include the following content :
   1. Transmission :
+  
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/wNrHSLmC/2025-12-03-04-33-45.jpg" alt="2025-12-03-04-33-45" border="0"></a>
-  3. Clue 1 :
-  ![Alt Text](https://ibb.co/Xr8tgJ97)
-  5. Clue 2 :
-  ![Alt Text]()
-  7. Clue 3 :
-  ![Alt Text](https://ibb.co/Ndg7vsmZ)
+ 
+  2. Clue 1 :
+     
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/cSLQHTP6/2025-12-03-17-30-12.jpg" alt="2025-12-03-17-30-12" border="0"></a>
+
+  3. Clue 2 :
+     
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/cSLQHTP6/2025-12-03-17-30-12.jpg" alt="2025-12-03-17-30-12" border="0"></a>
+  
+  4. Clue 3 :
+     
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/RkG7F9Bz/2025-12-03-12-50-48.jpg" alt="2025-12-03-12-50-48" border="0"></a>
 
 ## Solution
 Step-by-step explanation:
