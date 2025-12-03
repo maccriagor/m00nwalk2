@@ -20,10 +20,14 @@ Use the clues to extract the another flag from the .wav file.
 ## Analysis
 - The challenge gives 4 files total which include the following content :
   1. Transmission :
-  2. Clue 1 :
-  3. Clue 2 :
-  4. Clue 3 :
-     
+  ![Alt Text](https://ibb.co/SX7TtxC0)
+  3. Clue 1 :
+  ![Alt Text](https://ibb.co/Xr8tgJ97)
+  5. Clue 2 :
+  ![Alt Text](https://ibb.co/S7RrBd5P)
+  7. Clue 3 :
+  ![Alt Text](https://ibb.co/Ndg7vsmZ)
+
 ## Solution
 Step-by-step explanation:
 
