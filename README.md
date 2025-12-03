@@ -38,9 +38,9 @@ Use the clues to extract the another flag from the .wav file.
 ## Solution
 Step-by-step explanation:
 
-Download the following tool for solving ( RX-SSTV ) : https://www.qsl.net/on6mu/rxsstv.htm.
+Download the following tool for decoding the .wav files ( RX-SSTV ) : https://www.qsl.net/on6mu/rxsstv.htm.
 
-Download the following tool to support the solving tool ( Virtual Audio Cable ) : https://vac.muzychenko.net/en/
+Download the following tool to support the decoder ( Virtual Audio Cable ) : https://vac.muzychenko.net/en/
 
 Visit ALan Eliasen the future boy steganography tool : https://futureboy.us/stegano/
 
