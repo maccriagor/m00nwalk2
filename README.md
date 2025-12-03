@@ -24,7 +24,7 @@ Use the clues to extract the another flag from the .wav file.
   3. Clue 1 :
   ![Alt Text](https://ibb.co/Xr8tgJ97)
   5. Clue 2 :
-  ![Alt Text](https://ibb.co/S7RrBd5P)
+  ![Alt Text](<a href="https://imgbb.com/"><img src="https://i.ibb.co/BKqNBrct/2025-12-03-17-31-52.jpg" alt="2025-12-03-17-31-52" border="0"></a>)
   7. Clue 3 :
   ![Alt Text](https://ibb.co/Ndg7vsmZ)
 
